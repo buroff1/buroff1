@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 19-year-old Software Engineering Student @ UE<br>🌐 Mastering Python for Web and Software Development<br>🤝 Open to collaborating on innovative tech projects<br>📚 Continuously learning to stay ahead<br>📧 Email: [artem.burov0205@gmail.com](mailto:artem.burov0205@gmail.com)
+👨‍💻 Software Engineering Student @ UE<br>🌐 Mastering Python for Web and Software Development<br>🤝 Open to collaborating on innovative tech projects<br>📚 Continuously learning to stay ahead<br>📧 Email: [artem.burov0205@gmail.com](mailto:artem.burov0205@gmail.com)
 
 
 # 💻 Tech Stack:
